@@ -31,4 +31,4 @@ Following is a summary of the results:
 ## :mortar_board: Credits
 This code is a part of a MSc thesis written by Yevgen "Eugene" Zainchkovskyy at DTU Compute, department of Applied Mathematics and Computer Science at the Technical University of Denmark with an industrial partner Alipes Capital ApS. The work was carried out under supervision of Ole Winther, Professor at Section for Cognitive Systems, DTU Compute and Carsten Stahlhut, PhD, Principal Data Scientist, Novo Nordisk A/S (former Head of Quants at Alipes Capital). 
 
-A very special gratitude goes to [@trappmartin](https://github.com/trappmartin) for the SPNGP model and countless emails in which he helped the author of this code with explanations and understanding of the underlying details. 
+A very special gratitude goes to Martin Trapp ([@trappmartin](https://github.com/trappmartin)) for the SPNGP model and countless emails in which he helped the author of this code with explanations and understanding of the underlying details. 
