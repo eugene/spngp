@@ -1,6 +1,6 @@
 # :high_brightness: SPNGP
 
-This a Python implementation of the SPNGP model proposed in
+This is a Python implementation of the SPNGP model proposed in
 [Learning Deep Mixtures of Gaussian Process Experts Using Sum-Product Networks](https://arxiv.org/abs/1809.04400) (arXiv:1809.04400) with some tweaks and improvements.
 
 ## :wrench: Tweaks and improvements 
