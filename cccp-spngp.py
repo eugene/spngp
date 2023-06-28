@@ -1,9 +1,7 @@
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
 from learnspngp import build, query, build_bins
 from spngp import structure
-import sys
 
 np.random.seed(58)
 
