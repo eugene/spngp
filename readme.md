@@ -28,6 +28,24 @@ Following is a summary of the results:
 | concrete  | 8     | 1030 | **4.84**          | 6.25         |
 | ccpp      | 4     | 9568 | **3.68**          | 4.11         |
 
+## Run the project with docker
+
+### first steps
+
+- You need download docker
+
+### start docker container
+
+Run the docker container 
+
+``` make start ```
+
+### Install dependencies and exec docker
+
+To install the dependencies and enter the container
+
+``` make init ```
+
 ## :mortar_board: Credits
 This code is a part of a MSc thesis written by Yevgen "Eugene" Zainchkovskyy at DTU Compute, department of Applied Mathematics and Computer Science at the Technical University of Denmark with an industrial partner Alipes Capital ApS. The work was carried out under supervision of Ole Winther, Professor at Section for Cognitive Systems, DTU Compute and Carsten Stahlhut, PhD, Principal Data Scientist, Novo Nordisk A/S (former Head of Quants at Alipes Capital). 
 
