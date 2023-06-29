@@ -45,6 +45,11 @@ Run the docker container
 To install the dependencies and enter the container
 
 ``` make init ```
+### Results
+
+Process the results
+
+```make results```
 
 ## :mortar_board: Credits
 This code is a part of a MSc thesis written by Yevgen "Eugene" Zainchkovskyy at DTU Compute, department of Applied Mathematics and Computer Science at the Technical University of Denmark with an industrial partner Alipes Capital ApS. The work was carried out under supervision of Ole Winther, Professor at Section for Cognitive Systems, DTU Compute and Carsten Stahlhut, PhD, Principal Data Scientist, Novo Nordisk A/S (former Head of Quants at Alipes Capital). 
