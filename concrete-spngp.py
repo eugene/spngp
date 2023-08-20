@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 from learnspngp import build, query, build_bins
 from spngp import structure
-import sys
 
 np.random.seed(58)
 
